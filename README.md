@@ -1,5 +1,5 @@
 # task-manager-app
-Full-stack task management web app with user authentication, CRUD operations, real-time status updates, and a responsive UI. Built for [internship name] internship project.
+Full-stack task management web app with user authentication, CRUD operations, real-time status updates, and a responsive UI. Built for Thiranex internship project.
 # TaskFlow — Task Management Application
 
 A web application for creating, updating, and tracking tasks, built as an internship project.
